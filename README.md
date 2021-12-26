@@ -14,4 +14,4 @@ Official Website For Quizzine Vssut developed with ❤️ by me.
 
 ![QuizzineExtras-03](https://user-images.githubusercontent.com/76451927/140643096-d88ce7c6-5d11-45f8-93f2-1f6c30a16bfe.png)
 
- copyight@2021
+
