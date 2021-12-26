@@ -13,3 +13,5 @@ Official Website For Quizzine Vssut developed with ❤️ by me.
 <p>Quizzine organises various quizzing events and competitions throughout the year. The club prioritises an all round exposure of young minds to technical and general field of knowledge in the form of quizzing to encourage competitiveness and social awareness.</p>
 
 ![QuizzineExtras-03](https://user-images.githubusercontent.com/76451927/140643096-d88ce7c6-5d11-45f8-93f2-1f6c30a16bfe.png)
+
+ copyight@2021
